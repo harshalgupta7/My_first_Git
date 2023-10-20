@@ -5,6 +5,7 @@ using namespace std;
 char space[3][3] = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}}; // labelled the cells of the matrix
 
 int row;
+int hi = 0; // for git commit only
 int column;
 
 char token = 'X';
