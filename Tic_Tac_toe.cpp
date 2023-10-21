@@ -171,5 +171,5 @@ int main()
     {
         cout << " IT IS A DRAW ! " << endl;
     }
-    yogesh pitti;
+    return 0;
 }
